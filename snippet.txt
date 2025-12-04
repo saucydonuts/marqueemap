@@ -1,0 +1,1 @@
+<model-viewer src="Fully Finished.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="0.66" exposure="1.26" shadow-softness="0.09" camera-orbit="-50.78deg 71.62deg 3.29m" field-of-view="30deg" auto-rotate environment-image="hq720.jpg"> </model-viewer>
